@@ -1,8 +1,7 @@
-# Instagram Scraper
+# Instagram followers tracker
 
 Sample react project for teaching you how to scrap instagram with puppeteer!
 
-Check out the youtube tutorial here: 
 
 ## Installation
 
